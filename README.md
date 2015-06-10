@@ -1,2 +1,2 @@
 # drugs
-[Reference manual](http://jtilly.github.io/drugs/drugs.pdf)
+[Reference manual](http://njanetos.github.io/drugs/drugs.pdf)
